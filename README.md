@@ -27,7 +27,7 @@ An AI-powered research assistant that transforms any query into a structured, re
 
 ```bash
 git clone https://github.com/ks2225/AI_report_writer.git
-cd ai-research-agent
+cd AI_report_writer
 ```
 
 ### Add API Keys
