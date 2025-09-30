@@ -15,9 +15,9 @@ An AI-powered research assistant that transforms any query into a structured, re
 ---
 
 ## 🚀 Demo
+<img width="1891" height="865" alt="image" src="https://github.com/user-attachments/assets/837b1907-1cc1-4f90-8d6e-0f0ca0629faa" />
 
-[Watch demo video](assets/demo.mp4)
-
+[Watch the demo here](assets/demo.mp4)
 
 ---
 
